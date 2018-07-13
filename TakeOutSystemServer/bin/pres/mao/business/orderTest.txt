@@ -1,0 +1,7 @@
+orderID=0001
+businessID=0002
+customerID=0003
+order=order
+startTime=2018-07-03
+endTime=2018-07-04
+status=01

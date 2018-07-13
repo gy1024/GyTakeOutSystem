@@ -1,0 +1,12 @@
+commodity_id=10001
+commodity_name=炸鸡汉堡
+commodit_price=24.00
+business_id=0001
+commodity_id=10001
+commodity_name=炸鸡汉堡
+commodit_price=24.00
+business_id=0001
+commodity_id=10002
+commodity_name=薯条
+commodit_price=12.00
+business_id=0001

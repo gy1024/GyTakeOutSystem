@@ -1,0 +1,4 @@
+commodity_id=10002
+commodity_name=薯条
+commodit_price=12.00
+business_id=0001

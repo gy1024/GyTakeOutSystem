@@ -1,0 +1,5 @@
+business_id=0001
+business_name=华莱士炸鸡汉堡
+business_picture=null
+business_username=hualaishi
+business_password=123123asd
